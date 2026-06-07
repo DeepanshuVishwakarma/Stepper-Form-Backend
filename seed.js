@@ -1,4 +1,4 @@
-require("dotenv").config();
+equire("dotenv").config();
 const connectDB = require("./src/config/db");
 const { FormTemplate } = require("./src/models");
 
